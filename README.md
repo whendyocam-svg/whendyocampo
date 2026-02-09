@@ -1,22 +1,15 @@
-# whendyocampo
-# Hola, soy Whendy Ocampo
+# Hola, Soy Whendy Ocampo
 
-Analista de Business Intelligence Jr  
-🎓 Ingeniería Matemática – IPN  
-📍 Ciudad de México  
+🎯 Analista de Business Intelligence Jr  
+📍 Ciudad de México | Abierta a oportunidades BI  
+📊 Power BI | SQL | DAX | Modelado de datos
 
-Me interesa el análisis de datos, visualización y Business Intelligence.
-Trabajo con **Power BI, SQL y Excel** para transformar datos en insights accionables.
+Me especializo en transformar datos en insights accionables a través de dashboards interactivos, métricas clave (KPIs) y modelado claro.
 
----
+📁 Visita mis proyectos:
+🔗 Dashboard de ventas mensuales: https://github.com/whendyocam-svg/dashboard-ventas-mensuales-powerbi
 
-## Tecnologías
-- Power BI (DAX, KPIs, Time Intelligence)
-- SQL (PostgreSQL)
-- Excel (tablas dinámicas, análisis)
-- Python (básico – análisis de datos)
-
----
+🛠 Skills: Power BI, SQL (PostgreSQL), DAX, Excel
 
 ##  Proyectos Destacados
 

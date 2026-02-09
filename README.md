@@ -21,8 +21,7 @@ Trabajo con **Power BI, SQL y Excel** para transformar datos en insights acciona
 ##  Proyectos Destacados
 
 ### Dashboard de Ventas Mensuales – Power BI
-🔗 https://github.com/tu_usuario/dashboard-ventas-powerbi
-
+🔗 [https://github.com/whendyocam-svg/dashboard-ventas-mensuales-powerbi]
 Dashboard ejecutivo para análisis de ventas mensuales con métricas de
 variación, YTD y comparación mes contra mes.
 

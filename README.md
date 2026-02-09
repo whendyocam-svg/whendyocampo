@@ -1,7 +1,7 @@
 # whendyocampo
-# 👋 Hola, soy Whendy Ocampo
+# Hola, soy Whendy Ocampo
 
-📊 Analista de Business Intelligence Jr  
+Analista de Business Intelligence Jr  
 🎓 Ingeniería Matemática – IPN  
 📍 Ciudad de México  
 
@@ -10,7 +10,7 @@ Trabajo con **Power BI, SQL y Excel** para transformar datos en insights acciona
 
 ---
 
-## 🧠 Tecnologías
+## Tecnologías
 - Power BI (DAX, KPIs, Time Intelligence)
 - SQL (PostgreSQL)
 - Excel (tablas dinámicas, análisis)
@@ -18,9 +18,9 @@ Trabajo con **Power BI, SQL y Excel** para transformar datos en insights acciona
 
 ---
 
-## 📁 Proyectos Destacados
+##  Proyectos Destacados
 
-### 📊 Dashboard de Ventas Mensuales – Power BI
+### Dashboard de Ventas Mensuales – Power BI
 🔗 https://github.com/tu_usuario/dashboard-ventas-powerbi
 
 Dashboard ejecutivo para análisis de ventas mensuales con métricas de
@@ -28,5 +28,5 @@ variación, YTD y comparación mes contra mes.
 
 ---
 
-📫 **Contacto**
+ **Contacto**
 - Email: wocampom1900@alumno.ipn.mx
